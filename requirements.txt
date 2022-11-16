@@ -1,0 +1,11 @@
+Instalaciones 
+conda install -c conda-forge sklearn-pandas
+conda install Scikit-learn
+conda install -c conda-forge category_encoders
+conda install -c conda-forge tensorflow
+
+#  pip install pandas_summary
+# pip install isoweek
+# pip install pyarrow
+# pip install pandas 
+# pip install scikit-learn
